@@ -1,8 +1,8 @@
 # Symfony - http://symfony.com/
 
-Documentation officielle : http://documentation-symfony.fr/
-
 ![Symfony logo](https://symfony.com/images/v5/opengraph/symfony_logo.png?v=4)
+
+Documentation officielle : http://documentation-symfony.fr/ :uk:
 
 ### Installation on Linux and Mac OS X
 
@@ -38,7 +38,7 @@ $ symfony new my_project
 ### Pour comprendre
 
 * "Symfony in 5 minutes" / "Symfony explain to .." -> https://symfony.com/what-is-symfony
-* "Symfony Big View" : https://symfony.com/doc/current/quick_tour/the_big_picture.html (edited)
+* "Symfony Big View" : https://symfony.com/doc/current/quick_tour/the_big_picture.html
 
 ### IDE
 
