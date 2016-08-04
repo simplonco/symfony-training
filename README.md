@@ -33,7 +33,7 @@ $ symfony new my_project
 
 * Installer Symfony -> http://symfony.com/doc/current/setup.html
 * Créer une première page -> http://symfony.com/doc/current/page_creation.html
-* Composer : https://getcomposer.org/doc/00-intro.md)
+* Composer : https://getcomposer.org/doc/00-intro.md
 
 ### Pour comprendre
 
@@ -42,7 +42,7 @@ $ symfony new my_project
 
 ### IDE
 
-* https://www.jetbrains.com/phpstorm/
+* PHPStorm : https://www.jetbrains.com/phpstorm/
 
 ### Pour aller plus loin (OpenClassrooms)
 
