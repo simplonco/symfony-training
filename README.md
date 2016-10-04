@@ -49,3 +49,8 @@ $ symfony new my_project
 * [Premiers pas avec le framework PHP Silex](https://openclassrooms.com/courses/premiers-pas-avec-le-framework-php-silex) :fr:
 * [Évoluez vers une architecture PHP professionnelle](https://openclassrooms.com/courses/evoluez-vers-une-architecture-php-professionnelle) :fr:
 * [Découvrez le framework PHP Laravel](https://openclassrooms.com/courses/decouvrez-le-framework-php-laravel-1) :fr:
+
+## Exercises
+* [Forms & Doctrine](https://github.com/simplonco/symfony-training/wiki/Forms-&-Doctrines) _Started on Symfony_
+* [Tuto: Forms & Doctrine](https://github.com/simplonco/symfony-training/wiki/Tuto:-Forms-&-Doctrines) _After theory, the practice_ :boom:
+* [Twig](https://github.com/simplonco/php-workshop-twig/) _View templating on Symfony_ :pencil2:
