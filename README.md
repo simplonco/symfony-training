@@ -4,6 +4,22 @@
 
 Documentation officielle : http://documentation-symfony.fr/ :uk:
 
+## Exercises
+* [Forms & Doctrine](https://github.com/simplonco/symfony-training/wiki/Forms-&-Doctrines) _Started on Symfony_
+* [Tuto: Forms & Doctrine](https://github.com/simplonco/symfony-training/wiki/Tuto:-Forms-&-Doctrines) _After theory, the practice_ :boom:
+* [Twig](https://github.com/simplonco/php-workshop-twig/) _View templating on Symfony_ :pencil2:
+
+## Activities
+* [Doctrine et les relations](https://github.com/simplonco/symfony-training/wiki/Activit%C3%A9:-Doctrine-et-les-relations) _name of activity_
+* [Doctrine et les relations : tuto](https://github.com/simplonco/symfony-training/wiki/Activit%C3%A9:-Doctrine-et-les-relations-%5Bpossibilit%C3%A9%5D) _name of activity_ :closed_book:
+
+## Projects
+
+* [Symfony project](https://github.com/simplonco/symfony-project) _Use the Giphy API to retreive funny images from simple keywords._
+* [Is it raining today?](https://github.com/simplonco/is-it-raining-today) _Build a simple Weather app with PHP Symfony!_
+* [Kanban](https://github.com/simplonco/kanban) _name of activity_
+
+
 ## Installation on Linux and Mac OS X
 
 ```shell
@@ -50,20 +66,5 @@ $ symfony new my_project
 * [Premiers pas avec le framework PHP Silex](https://openclassrooms.com/courses/premiers-pas-avec-le-framework-php-silex) :fr:
 * [Évoluez vers une architecture PHP professionnelle](https://openclassrooms.com/courses/evoluez-vers-une-architecture-php-professionnelle) :fr:
 * [Découvrez le framework PHP Laravel](https://openclassrooms.com/courses/decouvrez-le-framework-php-laravel-1) :fr:
-
-## Exercises
-* [Forms & Doctrine](https://github.com/simplonco/symfony-training/wiki/Forms-&-Doctrines) _Started on Symfony_
-* [Tuto: Forms & Doctrine](https://github.com/simplonco/symfony-training/wiki/Tuto:-Forms-&-Doctrines) _After theory, the practice_ :boom:
-* [Twig](https://github.com/simplonco/php-workshop-twig/) _View templating on Symfony_ :pencil2:
-
-## Activities
-* [Doctrine et les relations](https://github.com/simplonco/symfony-training/wiki/Activit%C3%A9:-Doctrine-et-les-relations) _name of activity_
-* [Doctrine et les relations : tuto](https://github.com/simplonco/symfony-training/wiki/Activit%C3%A9:-Doctrine-et-les-relations-%5Bpossibilit%C3%A9%5D) _name of activity_ :closed_book:
-
-## Projects
-
-* [Symfony project](https://github.com/simplonco/symfony-project) _Use the Giphy API to retreive funny images from simple keywords._
-* [Is it raining today?](https://github.com/simplonco/is-it-raining-today) _Build a simple Weather app with PHP Symfony!_
-* [Kanban](https://github.com/simplonco/kanban) _name of activity_
 
 _To be continued.._
