@@ -64,6 +64,6 @@ $ symfony new my_project
 
 * [Symfony project](https://github.com/simplonco/symfony-project) _Use the Giphy API to retreive funny images from simple keywords._
 * [Is it raining today?](https://github.com/simplonco/is-it-raining-today) _Build a simple Weather app with PHP Symfony!_
-* [Kamban](https://github.com/simplonco/kanban) _TODO_
+* [Kanban](https://github.com/simplonco/kanban) _TODO_
 
 _To be continued.._
