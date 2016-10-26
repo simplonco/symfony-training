@@ -7,7 +7,7 @@ Documentation officielle : http://documentation-symfony.fr/ :uk:
 
 ## Exercises
 
-> Exercices given without automated validation, with just a short subject / explanation
+> Exercices given without automated validation, with just a short explanation
 
 * [Forms & Doctrine](https://github.com/simplonco/symfony-training/wiki/Forms-&-Doctrines) _Started on Symfony_
 * [Tuto: Forms & Doctrine](https://github.com/simplonco/symfony-training/wiki/Tuto:-Forms-&-Doctrines) _After theory, the practice_ :boom:
@@ -17,7 +17,7 @@ Documentation officielle : http://documentation-symfony.fr/ :uk:
 
 ## Projects
 
-> Long project activity, without tutorial, but some functional / technical specifications, to engage students autonomy
+> Long project activity, without tutorial, but some functional specifications, to engage students autonomy
 
 * [Symfony project](https://github.com/simplonco/symfony-project) _Use the Giphy API to retreive funny images from simple keywords._
 * [Is it raining today?](https://github.com/simplonco/is-it-raining-today) _Build a simple Weather app with PHP Symfony!_
@@ -36,7 +36,7 @@ $ symfony new my_project
 ```
 
 ```shell
-✔  Symfony 3.1.1 was successfully installed. Now you can:
+✔  Symfony 3.x.x was successfully installed. Now you can:
 
     * Change your current directory to /home/yvan/my_project
 
