@@ -6,15 +6,18 @@
 Documentation officielle : http://documentation-symfony.fr/ :uk:
 
 ## Exercises
+
+> Exercices given without automated validation, with just a short subject / explanation
+
 * [Forms & Doctrine](https://github.com/simplonco/symfony-training/wiki/Forms-&-Doctrines) _Started on Symfony_
 * [Tuto: Forms & Doctrine](https://github.com/simplonco/symfony-training/wiki/Tuto:-Forms-&-Doctrines) _After theory, the practice_ :boom:
 * [Twig](https://github.com/simplonco/php-workshop-twig/) _View templating on Symfony_ :pencil2:
-
-## Activities
 * [Doctrine et les relations](https://github.com/simplonco/symfony-training/wiki/Activit%C3%A9:-Doctrine-et-les-relations) _name of activity_
 * [Doctrine et les relations : tuto](https://github.com/simplonco/symfony-training/wiki/Activit%C3%A9:-Doctrine-et-les-relations-%5Bpossibilit%C3%A9%5D) _name of activity_ :closed_book:
 
 ## Projects
+
+> Long project activity, without tutorial, but some functional / technical specifications, to engage students autonomy
 
 * [Symfony project](https://github.com/simplonco/symfony-project) _Use the Giphy API to retreive funny images from simple keywords._
 * [Is it raining today?](https://github.com/simplonco/is-it-raining-today) _Build a simple Weather app with PHP Symfony!_
