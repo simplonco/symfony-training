@@ -1,0 +1,12 @@
+[submodule "exercises/php-workshop-twig"]
+	path = exercises/php-workshop-twig
+	url = https://github.com/simplonco/php-workshop-twig/
+[submodule "projects/kanban"]
+	path = projects/kanban
+	url = https://github.com/simplonco/kanban
+[submodule "projects/is-it-raining-today"]
+	path = projects/is-it-raining-today
+	url = https://github.com/simplonco/is-it-raining-today
+[submodule "projects/symfony-project"]
+	path = projects/symfony-project
+	url = https://github.com/simplonco/symfony-project
