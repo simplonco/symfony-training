@@ -3,7 +3,7 @@
 
 ![Symfony logo](https://symfony.com/images/v5/opengraph/symfony_logo.png?v=4)
 
-Documentation officielle : http://documentation-symfony.fr/ :uk:
+Documentation officielle : http://documentation-symfony.fr :uk:
 
 ## Exercises
 
@@ -57,13 +57,13 @@ $ symfony new my_project
 
 ## Pour comprendre
 
-* "Symfony in 5 minutes" / "Symfony explain to .." -> https://symfony.com/what-is-symfony
-* "Symfony Big View" : https://symfony.com/doc/current/quick_tour/the_big_picture.html
+* _"Symfony in 5 minutes"_ / _"Symfony explain to .."_ -> https://symfony.com/what-is-symfony
+* _"Symfony Big View"_ : https://symfony.com/doc/current/quick_tour/the_big_picture.html
 * [Symfony Console](https://github.com/simplonco/symfony-training/wiki/Symfony:-La-console) _The console in Symfony_ :computer:
 
 ## IDE
 
-* PHPStorm : https://www.jetbrains.com/phpstorm/
+* [PHPStorm](https://www.jetbrains.com/phpstorm/)
 
 ## Pour aller plus loin (OpenClassrooms)
 
