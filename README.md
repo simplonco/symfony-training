@@ -57,8 +57,8 @@ $ symfony new my_project
 
 ## Pour comprendre
 
-*_"Symfony in 5 minutes"_ / _("Symfony explain to ..")[https://symfony.com/what-is-symfony]_
-* _("Symfony Big View")[https://symfony.com/doc/current/quick_tour/the_big_picture.html]_
+* [Symfony in 5 minutes](https://symfony.com/what-is-symfony) _Symfony explain to .._
+* [Symfony Big View](https://symfony.com/doc/current/quick_tour/the_big_picture.html)
 * [Symfony Console](https://github.com/simplonco/symfony-training/wiki/Symfony:-La-console) _The console in Symfony_ :computer:
 
 ## IDE
