@@ -51,14 +51,14 @@ $ symfony new my_project
 
 ## Pour commencer
 
-* Installer Symfony -> http://symfony.com/doc/current/setup.html
-* Créer une première page -> http://symfony.com/doc/current/page_creation.html
-* Composer : https://getcomposer.org/doc/00-intro.md
+* [Installer Symfony](http://symfony.com/doc/current/setup.html)
+* [Créer une première page](http://symfony.com/doc/current/page_creation.html)
+* [Composer](https://getcomposer.org/doc/00-intro.md)
 
 ## Pour comprendre
 
-* _"Symfony in 5 minutes"_ / _"Symfony explain to .."_ -> https://symfony.com/what-is-symfony
-* _"Symfony Big View"_ : https://symfony.com/doc/current/quick_tour/the_big_picture.html
+*_"Symfony in 5 minutes"_ / _("Symfony explain to ..")[https://symfony.com/what-is-symfony]_
+* _("Symfony Big View")[https://symfony.com/doc/current/quick_tour/the_big_picture.html]_
 * [Symfony Console](https://github.com/simplonco/symfony-training/wiki/Symfony:-La-console) _The console in Symfony_ :computer:
 
 ## IDE
