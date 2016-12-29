@@ -3,7 +3,7 @@
 
 ![Symfony logo](https://symfony.com/images/v5/opengraph/symfony_logo.png?v=4)
 
-Documentation officielle : http://documentation-symfony.fr :uk:
+> [Documentation officielle](http://documentation-symfony.fr) :uk:
 
 ## Exercises
 
